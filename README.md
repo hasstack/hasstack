@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasstack (Hassan Tariq)
-- 👀 I’m interested in Data, ML, AI, Cloud, and Blockchain
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m interested in Big Data, Machine Learning, AI, Cloud (AWS/GCP)
+- 🌱 I’m currently learning Big Data & Cloud
 - 💞️ I’m looking to collaborate on Data, AI, ML, Blockchain projects
 - 📫 Reach me @ (hassantariq99@outlook.com, +923308064474, https://www.linkedin.com/in/dataengineer-hassantariq/)
 

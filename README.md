@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hasstack (Hassan Tariq)
-- 👀 I’m a Big Data & AI Enthusiast
+- 👀 I work with Data
 - 🌱 Currently working on some amazing Data & AI projects in the SportsTech & Utilities sector
-- 💞️ I’m looking to collaborate on AI
 - 📫 Reach me @ (hassantariq99@outlook.com, linkedin.com/in/hassantariq99/)
